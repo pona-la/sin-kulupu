@@ -6,5 +6,8 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: "https://acipensersturio.github.io/sin-kulupu",
-  integrations: [mdx(), sitemap()],
+  integrations: [
+    // mdx(),
+    sitemap(),
+  ],
 });
