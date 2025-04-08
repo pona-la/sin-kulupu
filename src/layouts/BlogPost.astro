@@ -29,7 +29,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
                 <h1>{title}</h1>
                 <FormattedDate date={pubDate} />
                 <hr />
-                <slot />
+                <section target="_blank">
+                    <slot />
+                </section>
             </article>
         </main>
     </body>

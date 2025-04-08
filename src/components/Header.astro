@@ -3,29 +3,26 @@
         max-width: 1000px;
         text-align: center;
         border-bottom: 5px dotted var(--accent);
-        min-height: 100px;
-        padding: 10px 0 0px 0;
+        padding: 15px 0;
         margin: auto;
     }
     span {
         margin-left: 5px;
         font-size: 35px;
         font-weight: bold;
-        vertical-align: middle;
-    }
-    img {
-        vertical-align: middle;
     }
     a {
+        display: inline-block;
         text-decoration: auto;
+    }
+    a > * {
+        vertical-align: middle;
     }
 </style>
 
 <header>
-    <nav>
-        <a href="/">
-            <img height="80" width="80" src="/sin-kulupu.svg" />
-            <span>sin kulupu</span>
-        </a>
-    </nav>
+    <a href="/">
+        <img height="80" width="80" src="/sin-kulupu.svg" />
+        <span>sin kulupu</span>
+    </a>
 </header>
