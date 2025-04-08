@@ -1,0 +1,25 @@
+:root {
+    --bg: #ffffff;
+    --txt: #080808;
+    --grey: #333;
+    --accent: #00863e;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+    line-height: 1.6;
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: var(--txt);
+}
+
+a {
+    color: var(--accent);
+    text-decoration: underline dotted;
+    text-underline-position: under;
+}
+
+a:visited {
+    color: var(--accent);
+}

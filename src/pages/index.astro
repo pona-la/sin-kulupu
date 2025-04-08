@@ -15,14 +15,6 @@ const posts = (await getCollection("blog")).sort(
     <head>
         <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
         <style>
-            main {
-                /* width: 960px; */
-                max-width: 800px;
-                margin: auto;
-                line-height: 1.5;
-                font-size: 16px;
-                font-family: Helvetica, Arial, sans-serif;
-            }
             ul {
                 display: flex;
                 flex-wrap: wrap;
@@ -34,17 +26,6 @@ const posts = (await getCollection("blog")).sort(
             ul li {
                 width: 100%;
             }
-            ul li * {
-                text-decoration: none;
-                transition: 0.2s ease;
-            }
-            ul li img {
-                margin-bottom: 0.5rem;
-                border-radius: 12px;
-            }
-            ul li a {
-                display: block;
-            }
             .title {
                 margin: 0;
                 color: rgb(var(--black));
@@ -52,7 +33,7 @@ const posts = (await getCollection("blog")).sort(
             }
             .date {
                 margin: 0;
-                color: rgb(var(--gray));
+                color: var(--grey);
             }
             ul li a:hover h4,
             ul li a:hover .date {
@@ -80,10 +61,7 @@ const posts = (await getCollection("blog")).sort(
     </head>
     <body>
         <main>
-            <!--
-            export const SITE_TITLE = "📰 sin kulupu";
-            export const SITE_DESCRIPTION = "A Toki Pona newsletter.";
- -->
+            <Header />
             <section>
                 <h1>📰 sin kulupu: a Toki Pona newsletter.</h1>
                 <p>
@@ -92,18 +70,16 @@ const posts = (await getCollection("blog")).sort(
                 </p>
             </section>
             <section>
-                <h3>Previous posts:</h3>
+                <h3>Previous posts</h3>
                 <ul>
                     {
                         posts.map((post) => (
                             <li>
+                                <p class="date">
+                                    <FormattedDate date={post.data.pubDate} />
+                                </p>
                                 <a href={`/${post.id}/`}>
                                     <h4 class="title">{post.data.title}</h4>
-                                    <p class="date">
-                                        <FormattedDate
-                                            date={post.data.pubDate}
-                                        />
-                                    </p>
                                 </a>
                             </li>
                         ))
