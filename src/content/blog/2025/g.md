@@ -44,4 +44,4 @@ And, of course, some weekly events you can take part in:
 * jan Ke Tami has started a weekly voice chat meetup for jan Eta's [lipu tenpo reading group](https://discord.com/channels/969386329513295872/1356386599268520006). Both beginners and proficient speakers are welcome!
 
 o awen pona.  
-— kala Asi 
+— kala Asi

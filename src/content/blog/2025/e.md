@@ -28,4 +28,4 @@ In other Toki Pona news:
 * You can now buy jan Sonja's books [on books.by](https://bsky.app/profile/tokipona.org/post/3lj2sz7idm22p), which gives jan Sonja a bigger slice of your financial support than Amazon!
 
 o awen pona.  
-— kala Asi 
+— kala Asi

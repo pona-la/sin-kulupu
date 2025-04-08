@@ -26,4 +26,4 @@ And as for community events and meetups you can take part in:
 * As usual, the VRChat community holds its [regularly scheduled](https://bsky.app/profile/tokiponavr.bsky.social/post/3lizxwkhfjs22) weekend meetups, which you are welcome to join!
 
 o awen pona.  
-— kala Asi 
+— kala Asi
