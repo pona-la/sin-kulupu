@@ -1,18 +1,30 @@
----
-import { SITE_TITLE } from "../consts";
----
-
 <style>
     header {
         width: 100%;
         text-align: center;
         border-bottom: 5px dotted var(--accent);
+        min-height: 100px;
+        padding: 10px 0 0px 0;
+    }
+    span {
+        margin-left: 5px;
+        font-size: 35px;
+        font-weight: bold;
+        vertical-align: middle;
+    }
+    img {
+        vertical-align: middle;
+    }
+    a {
+        text-decoration: auto;
     }
 </style>
 
 <header>
     <nav>
-        <!-- <img height="80" src="/sin-kulupu.svg" /> -->
-        <h1><a href="/">{SITE_TITLE}</a></h1>
+        <a href="/">
+            <img height="80" src="/sin-kulupu.svg" />
+            <span>sin kulupu</span>
+        </a>
     </nav>
 </header>
