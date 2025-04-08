@@ -3,12 +3,17 @@ import type { CollectionEntry } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import FormattedDate from "../components/FormattedDate.astro";
+import PrevNext from "../components/PrevNext.astro";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, prev, next } =
+    Astro.props;
+
+import { Debug } from "astro:components";
 ---
 
+<!-- <Debug answer={Astro.props} /> -->
 <html lang="en">
     <head>
         <BaseHead title={title} description={description} />
@@ -29,9 +34,13 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
                 <h1>{title}</h1>
                 <FormattedDate date={pubDate} />
                 <hr />
+                <PrevNext prev={prev} next={next} />
+                <hr />
                 <section target="_blank">
                     <slot />
                 </section>
+                <hr />
+                <PrevNext prev={prev} next={next} />
             </article>
         </main>
     </body>

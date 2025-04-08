@@ -3,11 +3,19 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import BlogPost from "../layouts/BlogPost.astro";
 import { render } from "astro:content";
 
+export const sortByDate = (a, b) => {
+    return new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate);
+};
+
 export async function getStaticPaths() {
     const posts = await getCollection("blog");
-    return posts.map((post) => ({
+    return posts.map((post, i) => ({
         params: { slug: post.id },
-        props: post,
+        props: {
+            ...post,
+            next: i + 1 === posts.length ? "" : posts[i + 1].id,
+            prev: i === 0 ? "" : posts[i - 1].id,
+        },
     }));
 }
 type Props = CollectionEntry<"blog">;
@@ -16,6 +24,6 @@ const post = Astro.props;
 const { Content } = await render(post);
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...{ ...post.data, ...{ next: post.next, prev: post.prev } }}>
     <Content />
 </BlogPost>
