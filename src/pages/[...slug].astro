@@ -3,18 +3,18 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import BlogPost from "../layouts/BlogPost.astro";
 import { render } from "astro:content";
 
-export const sortByDate = (a, b) => {
-    return new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate);
-};
+import { Debug } from "astro:components";
 
 export async function getStaticPaths() {
-    const posts = await getCollection("blog");
+    const posts = (await getCollection("blog")).sort(
+        (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+    );
     return posts.map((post, i) => ({
         params: { slug: post.id },
         props: {
             ...post,
-            next: i + 1 === posts.length ? "" : posts[i + 1].id,
-            prev: i === 0 ? "" : posts[i - 1].id,
+            prev: i + 1 === posts.length ? "" : posts[i + 1].id,
+            next: i === 0 ? "" : posts[i - 1].id,
         },
     }));
 }
