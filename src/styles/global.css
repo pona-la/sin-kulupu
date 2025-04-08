@@ -5,13 +5,16 @@
     --accent: #00863e;
 }
 
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: var(--txt);
+    line-height: 1.6;
+    font-size: 16px;
+}
+
 main {
     max-width: 800px;
     margin: auto;
-    line-height: 1.6;
-    font-size: 16px;
-    font-family: Helvetica, Arial, sans-serif;
-    color: var(--txt);
 }
 
 a {
@@ -22,4 +25,8 @@ a {
 
 a:visited {
     color: var(--accent);
+}
+
+h1 {
+    text-align: center;
 }
