@@ -9,14 +9,17 @@ export async function getStaticPaths() {
     const posts = (await getCollection("blog")).sort(
         (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
     );
-    return posts.map((post, i) => ({
+    const paths = posts.map((post, i) => ({
         params: { slug: post.id },
         props: {
             ...post,
-            prev: i + 1 === posts.length ? "" : posts[i + 1].id,
-            next: i === 0 ? "" : posts[i - 1].id,
+            prevnext: {
+                prev: i + 1 === posts.length ? "" : posts[i + 1].id,
+                next: i === 0 ? "" : posts[i - 1].id,
+            },
         },
     }));
+    return paths;
 }
 type Props = CollectionEntry<"blog">;
 
@@ -24,6 +27,6 @@ const post = Astro.props;
 const { Content } = await render(post);
 ---
 
-<BlogPost {...{ ...post.data, ...{ next: post.next, prev: post.prev } }}>
+<BlogPost {...{ ...post.data, ...post.prevnext }}>
     <Content />
 </BlogPost>
