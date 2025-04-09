@@ -1,8 +1,7 @@
 ---
 title: '📰 sin: raccoon birthday, orca gifs, and üvúwo.'
 description: ''
-pubDate: '2025-04-07'
-heroImage: '/blog-placeholder-2.jpg'
+date: '2025-04-07'
 ---
 toki, ale o! Welcome to new subscribers: there are now more than 320 of us!
 

@@ -7,8 +7,7 @@ import PrevNext from "../components/PrevNext.astro";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, description, pubDate, updatedDate, heroImage, prev, next } =
-    Astro.props;
+const { title, description, date, prev, next } = Astro.props;
 
 import { Debug } from "astro:components";
 ---
@@ -24,7 +23,7 @@ import { Debug } from "astro:components";
         <main>
             <article>
                 <h1>{title}</h1>
-                <FormattedDate date={pubDate} />
+                <FormattedDate date={date} />
                 <hr />
                 <PrevNext prev={prev} next={next} />
                 <hr />

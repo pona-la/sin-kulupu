@@ -1,8 +1,7 @@
 ---
 title: '📰 sin: lots of songs, the Netherlands, and fish.'
 description: ''
-pubDate: '2025-03-08'
-heroImage: '/blog-placeholder-2.jpg'
+date: '2025-03-08'
 ---
 
 toki, ale o!

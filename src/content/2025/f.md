@@ -1,8 +1,7 @@
 ---
 title: '📰 sin: an art contest, blackboard talks, and an owl.'
 description: ''
-pubDate: '2025-03-22'
-heroImage: '/blog-placeholder-2.jpg'
+date: '2025-03-22'
 ---
 
 toki, ale o!
