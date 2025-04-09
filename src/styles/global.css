@@ -6,7 +6,7 @@
 }
 
 body {
-    margin: 0;
+    margin: 10px;
     font-family: Helvetica, Arial, sans-serif;
     color: var(--txt);
     line-height: 1.6;
