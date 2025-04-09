@@ -4,10 +4,7 @@ import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 
 const deploy = import.meta.env.PROD
-  ? {
-      site: "https://acipensersturio.github.io/",
-      base: "./sin-kulupu/",
-    }
+  ? { site: "https://sin-kulupu.pona.la/", base: "./" }
   : { site: "http://localhost/", base: "./" };
 
 // https://astro.build/config
