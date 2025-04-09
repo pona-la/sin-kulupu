@@ -25,6 +25,9 @@ a {
     text-underline-position: under;
     font-weight: bold;
 }
+header a:has(img) {
+    display: block; /*fix focus styling on main header*/
+}
 
 a:visited {
     color: var(--accent);
