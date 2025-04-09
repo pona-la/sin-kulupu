@@ -10,6 +10,7 @@ type Props = CollectionEntry<"blog">["data"];
 const { title, description, date, prev, next } = Astro.props;
 
 import { Debug } from "astro:components";
+import Footer from "../components/Footer.astro";
 ---
 
 <!-- <Debug answer={Astro.props} /> -->
@@ -27,12 +28,14 @@ import { Debug } from "astro:components";
                 <hr />
                 <PrevNext prev={prev} next={next} />
                 <hr />
-                <section target="_blank">
+                <section>
                     <slot />
                 </section>
                 <hr />
                 <PrevNext prev={prev} next={next} />
+                <hr />
             </article>
         </main>
+        <Footer />
     </body>
 </html>
