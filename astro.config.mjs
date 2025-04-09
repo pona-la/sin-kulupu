@@ -3,12 +3,20 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 
+const deploy = import.meta.env.PROD
+  ? {
+      site: "https://acipensersturio.github.io/",
+      base: "./sin-kulupu/",
+    }
+  : { site: "http://localhost/", base: "./" };
+
 // https://astro.build/config
 export default defineConfig({
-  site: "https://acipensersturio.github.io",
-  base: "sin-kulupu",
-  integrations: [
-    // mdx(),
-    sitemap(),
-  ],
+  ...deploy,
+  ...{
+    integrations: [
+      // mdx(),
+      sitemap(),
+    ],
+  },
 });
