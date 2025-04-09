@@ -15,4 +15,4 @@ Go to the [sin kulupu Google Group](https://groups.google.com/g/sin-kulupu) and 
 2. You'll receive a confirmation message, send a blank reply to it.
 
 **With an RSS feed:**  
-(This site has [an RSS feed](./rss.xml), but it's not ready! Wait until the site migrates to a permanent address.)
+Add this site's [RSS feed](./rss.xml) to your preferred aggregator.
