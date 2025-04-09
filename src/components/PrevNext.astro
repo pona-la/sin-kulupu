@@ -23,8 +23,10 @@ const { prev, next } = Astro.props;
     }
 </style>
 
+<hr />
 <nav>
     <span>{prev ? <a href={"./" + prev}>« Previous</a> : ""}</span>
     <span><a href={"./"}>Index</a></span>
     <span>{next ? <a href={"./" + next}>Next »</a> : ""} </span>
 </nav>
+<hr />
