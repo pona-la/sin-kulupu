@@ -16,12 +16,13 @@ body {
 main {
     max-width: 800px;
     margin: auto;
+    text-align: justify;
 }
-
 a {
     color: var(--accent);
     text-decoration: underline dotted;
     text-underline-position: under;
+    font-weight: bold;
 }
 
 a:visited {

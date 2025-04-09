@@ -50,12 +50,44 @@ const posts = (await getCollection("blog")).sort(
             <section>
                 <h1>📰 sin kulupu: a Toki Pona newsletter.</h1>
                 <p>
-                    Keep in touch with Toki Pona events and creative works.
-                    Every two weeks.
+                    It can be hard to keep track of cool stuff in the Toki Pona
+                    community! To make it easier, I've started a newsletter.
+                    Every two weeks, I summarise recent events and creative
+                    works. Now you won't miss anything going on!
+                </p>
+                <p>— kala Asi</p>
+                <h3>How do I sign up?</h3>
+                <p><b>With a Google account:</b></p>
+                <p>
+                    Go to the <a href="https://groups.google.com/g/sin-kulupu"
+                        >sin kulupu Google Group</a
+                    > and click <b>Join group</b>. Now you'll receive sin kulupu
+                    in your inbox!
+                </p>
+                <p><b>Without a Google account:</b></p>
+                <ol>
+                    <li>
+                        Send a blank email to <a
+                            href="mailto:sin-kulupu+subscribe@googlegroups.com"
+                            >sin-kulupu+subscribe@googlegroups.com</a
+                        >.
+                    </li>
+                    <li>
+                        You'll receive a confirmation message, send a blank
+                        reply to it.
+                    </li>
+                </ol>
+                <p>
+                    <b>With an RSS feed:</b>
+                </p>
+                <p>
+                    (This site has <a href="./rss.xml">an RSS feed</a>, but it's
+                    not ready! Wait until the site migrates to a permanent
+                    address.)
                 </p>
             </section>
             <section>
-                <h3>Previous posts</h3>
+                <h2>Previous posts</h2>
                 <ul>
                     {
                         posts.map((post) => (
