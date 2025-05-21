@@ -14,7 +14,7 @@ Go to the [sin kulupu Google Group](https://groups.google.com/g/sin-kulupu) and 
 1. Send a blank email to [sin-kulupu+subscribe@googlegroups.com](mailto:sin-kulupu+subscribe@googlegroups.com).
 2. You'll receive a confirmation message, send a blank reply to it.
 
-## Need help?
+### Need help?
 Send an email titled "sign me up" to [kala.asi.la@gmail.com](mailto:kala.asi.la@gmail.com). I will manually add your email address, or reply if I'm unable.
 
 ### With an RSS feed:
