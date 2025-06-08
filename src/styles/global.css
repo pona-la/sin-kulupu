@@ -4,13 +4,29 @@
     --grey: #333;
     --accent: #00863e;
 }
+.dark {
+    --bg: #111;
+    --txt: #dbdbdb;
+    --grey: #999;
+    --accent: #00b755;
+}
 
 body {
+    background-color: var(--bg);
     margin: 10px;
     font-family: "Nunito", Arial, Helvetica, sans-serif;
     color: var(--txt);
     line-height: 1.7;
     font-size: 18px;
+}
+
+* {
+    transition:
+        color 0.2s,
+        background-color 0.2s,
+        border 0.2s,
+        fill 0.2s;
+    box-shadow: 0.2s;
 }
 
 main {
