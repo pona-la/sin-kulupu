@@ -3,12 +3,14 @@
     --txt: #080808;
     --grey: #333;
     --accent: #00863e;
+    --accent-1: #00441f;
 }
 .dark {
     --bg: #111;
     --txt: #dbdbdb;
     --grey: #999;
     --accent: #00b755;
+    --accent-1: #1ce67a;
 }
 
 body {
@@ -58,6 +60,11 @@ a {
 
 a:visited {
     color: var(--accent);
+}
+
+a:active,
+a:hover {
+    color: var(--accent-1) !important;
 }
 
 h1 {
