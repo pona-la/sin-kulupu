@@ -9,12 +9,13 @@ export const by =
 
 // posts, sorted from newest to oldest.
 
-export const posts = (await getCollection("blog")).sort(
-  by((x) => x.data.date.valueOf(), false),
-);
+export const posts = await getCollection("blog");
+export const feed = posts
+  .filter((x) => x.data.date)
+  .sort(by((x) => x.data.date!.valueOf(), false));
 
 export const prevnexts = Object.fromEntries(
-  posts
+  feed
     .reverse()
-    .map((post, i) => [post.id, { prev: posts[i - 1], next: posts[i + 1] }]),
+    .map((post, i) => [post.id, { prev: feed[i - 1], next: feed[i + 1] }]),
 );

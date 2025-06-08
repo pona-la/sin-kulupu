@@ -23,11 +23,19 @@ const { Content } = await render(post);
 <BaseLayout title={post.data.title} description={post.data.description || ""}>
   <article>
     <h1>{post.data.title}</h1>
-    <center><h3><FormattedDate date={post.data.date} /></h3></center>
-    <PrevNext prevnext={prevnext} />
+    {
+      post.data.date && (
+        <center>
+          <h3>
+            <FormattedDate date={post.data.date} />
+          </h3>
+        </center>
+      )
+    }
+    {prevnext && <PrevNext prevnext={prevnext} />}
     <section>
       <Content />
     </section>
-    <PrevNext prevnext={prevnext} />
+    {prevnext && <PrevNext prevnext={prevnext} />}
   </article>
 </BaseLayout>
