@@ -1,6 +1,6 @@
 ---
 ---
-# 📰 sin kulupu: a Toki Pona newsletter.
+# 📰 sin kulupu: a Toki Pona newsletter
 
 It can be hard to keep track of cool stuff in the Toki Pona community! To make it easier, I've started a newsletter. Every two weeks, I summarise recent events and creative works. Now you won't miss anything going on!  
 — kala Asi
