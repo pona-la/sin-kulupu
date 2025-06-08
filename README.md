@@ -11,9 +11,9 @@ npm run dev
 
 ## License
 
-Code is licensed under the GNU General Public License Version 3. 
+Code (`/src/`) is licensed under the GNU General Public License Version 3. 
 
-Content (`/src/content/`) is dual-licensed under:
+Content (`/content/`) is dual-licensed under:
 
 - Creative Commons Attribution-ShareAlike 3.0 Unported;
 
