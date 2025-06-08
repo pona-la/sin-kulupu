@@ -17,5 +17,8 @@ export const feed = posts
 export const prevnexts = Object.fromEntries(
   feed
     .toReversed()
-    .map((post, i) => [post.id, { prev: feed[i - 1], next: feed[i + 1] }]),
+    .map((post, i) => [
+      post.id,
+      { prev: feed.toReversed()[i - 1], next: feed.toReversed()[i + 1] },
+    ]),
 );
