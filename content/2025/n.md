@@ -1,7 +1,7 @@
 ---
 title: "📰 sin: 24 hours, 51 stories, and 2 su's!"
 description: ''
-date: '2025-07-28'
+date: '2025-08-08'
 ---
 
 toki, ale o!
