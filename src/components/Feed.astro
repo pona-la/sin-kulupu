@@ -1,6 +1,6 @@
 ---
-import { feed } from "@/utils/content";
 import FormattedDate from "@/components/FormattedDate.astro";
+import { feed } from "@/utils/content";
 ---
 
 <style>
@@ -27,7 +27,7 @@ import FormattedDate from "@/components/FormattedDate.astro";
         <p class="date">
           <FormattedDate date={post.data.date} />
         </p>
-        <a href={`./${post.id}/`}>{post.data.title}</a>
+        <a href={`/${post.id}/`}>{post.data.title}</a>
       </li>
     ))
   }
