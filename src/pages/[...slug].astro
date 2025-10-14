@@ -9,18 +9,14 @@ import { posts, prevnexts } from "@/utils/content";
 import { type CollectionEntry, render } from "astro:content";
 import { BaseHead, Footer, Header } from "selo-components";
 
-export async function getStaticPaths() {
-  return posts.map((post, i) => ({
+export const getStaticPaths = async () =>
+  posts.map((post) => ({
     params: { slug: post.id },
     props: post,
   }));
-}
 
-type Props = CollectionEntry<"blog">;
-
-const post = Astro.props;
+const post: CollectionEntry<"blog"> = Astro.props;
 const prevnext = prevnexts[post.id];
-
 const { Content } = await render(post);
 ---
 
