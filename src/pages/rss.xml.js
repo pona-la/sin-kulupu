@@ -1,6 +1,6 @@
 import rss from "@astrojs/rss";
 import { SITE_TITLE, SITE_DESCRIPTION } from "@/consts";
-import { feed } from "@/utils/content";
+import { feed } from "@/lib/content";
 
 export async function GET(context) {
   return rss({
