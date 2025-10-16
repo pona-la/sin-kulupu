@@ -3,11 +3,10 @@ import "selo-components/common.css"; // has to be above site-specific css
 
 import "@/styles/global.css";
 
-import FormattedDate from "@/components/FormattedDate.astro";
 import PrevNext from "@/components/PrevNext.astro";
 import { posts, prevnexts } from "@/utils/content";
 import { type CollectionEntry, render } from "astro:content";
-import { BaseHead, Footer, Header } from "selo-components";
+import { Layout } from "selo-components";
 
 export const getStaticPaths = async () =>
   posts.map((post) => ({
@@ -20,37 +19,15 @@ const prevnext = prevnexts[post.id];
 const { Content } = await render(post);
 ---
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <BaseHead
-      title={post.data.title}
-      description={post.data.description}
-      goatcounter="sin-kulupu-pona-la.goatcounter.com"
-      useRss
-    />
-  </head>
-  <body>
-    <Header useNavbar />
-    <main>
-      <article>
-        <h1>{post.data.title}</h1>
-        {
-          post.data.date && (
-            <center>
-              <h3>
-                <FormattedDate date={post.data.date} />
-              </h3>
-            </center>
-          )
-        }
-        {prevnext && <PrevNext prevnext={prevnext} />}
-        <section>
-          <Content />
-        </section>
-        {prevnext && <PrevNext prevnext={prevnext} />}
-      </article>
-    </main>
-    <Footer github="https://github.com/pona-la/sin-kulupu" />
-  </body>
-</html>
+<Layout
+  useNavbar
+  useRss
+  title={post.data.title}
+  description={post.data.description}
+  date={post.data.date}
+  goatcounter="sin-kulupu-pona-la.goatcounter.com"
+  github="https://github.com/pona-la/sin-kulupu"
+>
+  {prevnext && <PrevNext prevnext={prevnext} slot="pagenav" />}
+  <Content />
+</Layout>
