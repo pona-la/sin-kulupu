@@ -9,7 +9,7 @@ export const by =
 
 // posts, sorted from newest to oldest.
 
-export const posts = await getCollection("blog");
+export const posts = await getCollection("content");
 export const feed = posts
   .filter((x) => x.data.date)
   .sort(by((x) => x.data.date!.valueOf(), false));

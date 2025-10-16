@@ -1,9 +1,8 @@
 ---
 import "selo-components/common.css"; // has to be above site-specific css
 
-import "@/styles/global.css";
-
 import PrevNext from "@/components/PrevNext.astro";
+import "@/global.css";
 import { posts, prevnexts } from "@/utils/content";
 import { type CollectionEntry, render } from "astro:content";
 import { Layout } from "selo-components";
@@ -14,7 +13,7 @@ export const getStaticPaths = async () =>
     props: post,
   }));
 
-const post: CollectionEntry<"blog"> = Astro.props;
+const post: CollectionEntry<"content"> = Astro.props;
 const prevnext = prevnexts[post.id];
 const { Content } = await render(post);
 ---
