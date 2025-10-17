@@ -19,13 +19,10 @@ const { Content } = await render(post);
 ---
 
 <Layout
-  useNavbar
   useRss
   title={post.data.title}
   description={post.data.description}
   date={post.data.date}
-  goatcounter="sin-kulupu-pona-la.goatcounter.com"
-  github="https://github.com/pona-la/sin-kulupu"
 >
   {prevnext && <PrevNext prevnext={prevnext} slot="pagenav" />}
   <Content />
