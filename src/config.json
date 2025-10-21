@@ -2,7 +2,7 @@
   "hostname": "sin-kulupu.pona.la",
   "title": "sin kulupu: a Toki Pona newsletter",
   "description": "Keep in touch with Toki Pona events and creative works. Every two weeks.",
-  "url_goatcounter": "https://sin-kulupu-pona-la.goatcounter.com/",
+  "url_goatcounter": "https://sin-kulupu-pona-la.goatcounter.com",
   "url_github": "https://github.com/pona-la/sin-kulupu/",
 
   "use_navbar": true,
