@@ -59,7 +59,7 @@ As we find ourselves in the first half of December, let's catch up with more tha
 
 ### Texts
 * soweli Kapi continues to translate Alice in Wonderland, now with [chapter 7](https://tokikapi.neocities.org/alisu/lipualisu7) completed and illustrated!
-* soweli Tajeson released the 3rd issue of [lipu pi jan sin](https://www.reddit.com/r/tokiponataso/comments/1opftbp/lipu_lili_pi_toki_pona_3_lipu_pi_jan_sin/) (here are links to [part 1](https://www.reddit.com/r/tokiponataso/comments/1mukhzc/mi_pali_e_lipu_lili_pi_toki_pona_lipu_pi_jan_sin/) and [part 2](https://www.reddit.com/r/tokiponataso/comments/1ny2ct1/lipu_lili_pi_toki_pona_2_lipu_pi_jan_sin/))!
+* soweli Tajeson released the 3rd issue of [lipu pi jan sin](https://www.reddit.com/r/tokiponataso/comments/1opftbp/lipu_lili_pi_toki_pona_3_lipu_pi_jan_sin/) (here are links to [part 1](https://www.reddit.com/r/tokiponataso/comments/1mukhzc/mi_pali_e_lipu_lili_pi_toki_pona_lipu_pi_jan_sin/) and [part 2](https://www.reddit.com/r/tokiponataso/comments/1ny2ct1/lipu_lili_pi_toki_pona_2_lipu_pi_jan_sin/)!
 * People get together [every other Thursday on 20:15 CET](https://discord.com/events/969386329513295872/1420414226157277256) to read lipu tenpo articles on the [kama sona](https://discord.gg/ChC6qtVsSE) Discord server!
 
 ### Tools & Resources
