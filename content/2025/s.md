@@ -20,7 +20,7 @@ As we find ourselves in the first half of December, let's catch up with more tha
 * The CG Toki Pona Club performed [a skit about an invisible bench](https://www.youtube.com/watch?v=FBilrNdwnN4)!
 * voytxt [recreated "toki pona lon ma kasi"](https://youtu.be/56mVWioYBa4) for its [10 year anniversary](https://www.youtube.com/watch?v=sNY7lu1Tw0Y)!
 * jan Kililaso told a story about [forming rival groups in primary school](https://www.youtube.com/watch?v=SJyJNHtODn0)!
-* jan Koselu and jan Wakon and made [a commercial](https://seka.pona.la/w/widXK8xoRkxVaWWRrdTWvS) to promote their Toki Pona presentation on Futrołajki furry convention in Poland!
+* jan Koselu and jan Wakon made [a commercial](https://seka.pona.la/w/widXK8xoRkxVaWWRrdTWvS) to promote their Toki Pona presentation on Futrołajki furry convention in Poland!
 
 ### Video stories & readings
 * jan Kekan San uploaded a narrated translation of [The Red Mask](https://www.youtube.com/watch?v=Pcd0rgcUmHA) by Edgar Allan Poe for Halloween!
