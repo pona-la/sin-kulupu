@@ -27,6 +27,7 @@ As we find ourselves in the first half of December, let's catch up with more tha
 * moku ala Samo translated the short poem [The First Thing You Should Know](https://www.sirrahmas.me/poem/nanpa_wan_la_sina_o_sona_e_ni) by Joshua Seigal!
 * jan Aselo translated and read the poem [Cut While Shaving](https://www.youtube.com/watch?v=61C-RDy6pis) by Charles Bukowski, and [Wanderer's Nightsong II](https://www.youtube.com/watch?v=YpH5TN04Xbs) by Johann Wolfgang von Goethe!
 * jan Aselo read and analyzed jan Kapilu's poem [lon ma tomo pi tenpo suli](https://www.youtube.com/watch?v=OZ30FYReJbU)!
+* jan Tene uploaded a short overview of [Plato’s philosophy](https://youtu.be/I_gnG0q9NzU)!
 * If you like testing out waters and very casually presenting something, there's a regular event on the [4th Sunday of the month 7pm UTC](https://discord.com/events/301377942062366741/1417571699787829279) on the [ma pona pi toki pona](https://discord.gg/mapona) Discord server!
 
 ### Games
