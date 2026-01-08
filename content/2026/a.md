@@ -17,7 +17,7 @@ New year, new stuff! I hope you had some relaxing and/or exciting days as the ol
 ### In real life
 * Toki Pona speakers and interested people met up at the [39C3 Chaos Computer Club convention](https://events.ccc.de/congress/2025/hub/en/assembly/detail/toki-pona)!
 * jan Ilasa made another vlog, this time about [going on a walk in the snow](https://www.youtube.com/watch?v=2K2gf2YeHjw)!
-* waso laso made a vlog about [birds during a walk](https://www.youtube.com/watch?v=r_9wkavYt4Y), [celebrated Hanukkah](https://www.youtube.com/watch?v=bSIR4RaECvs), made a video about [Christmas](https://www.youtube.com/watch?v=ZIkPBjODrvg), and [described an ice rainbow](https://www.youtube.com/watch?v=PUFjYhbJBc4)!
+* waso laso made a vlog about [birds during a walk](https://www.youtube.com/watch?v=IzT4O6ESIcE), [celebrated Hanukkah](https://www.youtube.com/watch?v=bSIR4RaECvs), made a video about [Christmas](https://www.youtube.com/watch?v=ZIkPBjODrvg), and [described an ice rainbow](https://www.youtube.com/watch?v=PUFjYhbJBc4)!
 * E_gG s made a [tour of their first sketchbook](https://www.youtube.com/watch?v=4aYd33DoFZc)!
 * jan Sitewen Kijetesantakalama [found a box](https://www.youtube.com/watch?v=zk3CJLiS4XQ)!
 
@@ -62,3 +62,5 @@ New year, new stuff! I hope you had some relaxing and/or exciting days as the ol
 * jan Pikesike continues to translate [Bocchi The Rock!](https://bato.si/title/_/4000300) now up to chapter 10!
 
 This edition of sin kulupu has been put together with the help of the communuity. [Collaborate with us](https://discord.com/channels/301377942062366741/1352322731592646788) to keep the newsletter going!
+
+Edit: fixed the link for "Going on a bird walk".
