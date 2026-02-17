@@ -55,3 +55,5 @@ Short month, short introduction: Here are a lot of things that people have made 
 ### Fun other things
 * ijo Tojoko translated Nicky Case's point-and-click game [We Become What We Behold](https://thewanderverse.github.io/wbwwb-tp/)!
 * Sadberryjuice made [a whole kijetesantakalu themed scarf](https://www.reddit.com/r/tokipona/comments/1qqrc15/len_anpa_lawa_pi_kijetesantakalu/) for a friend as a Christmas gift!
+
+This edition of sin kulupu has been put together with the help of the communuity. [Collaborate with us](https://discord.com/channels/301377942062366741/1352322731592646788) to keep the newsletter going!
