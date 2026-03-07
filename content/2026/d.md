@@ -9,9 +9,9 @@ toki, ale o!
 Wow, February was over so quickly -- and despite that, people have been so busy. Some have been able to concentrate on finishing translations during the translation challenge of February -- and others have started working on things that will come to fruition some time in the future! But so many other things happened too, check them out:
 
 ### Useful information!
-* This year's [annual North American toki pona meet up](https://www.reddit.com/r/tokipona/comments/1rfv3uw/annual_toki_pona_meetup_north_america_announcement/) is in NEW YORK CITY from JUNE 19TH to JUNE 22ND! Join on [Discord](https://discord.gg/a6wcKrKbn9) to stay up to date!
+* This year's [annual North American toki pona meetup](https://www.reddit.com/r/tokipona/comments/1rfv3uw/annual_toki_pona_meetup_north_america_announcement/) is in NEW YORK CITY from JUNE 19TH to JUNE 22ND! Join on [Discord](https://discord.gg/a6wcKrKbn9) to stay up to date!
 * jan Kekan San created playlists that cover almost all videos in toki pona on YouTube. If you like this newsletter, but can't find older stuff because the newsletter is pretty recent, you'll like these playlists:
-  * [Blogs and Conversations in toki pona](https://youtube.com/playlist?list=PLoLQoll2U6WF9RosKElwHUhAcx4TbCLv-) -- videos presented in an unscripted, improvizational, or conversational manner.
+  * [Blogs and Conversations in toki pona](https://youtube.com/playlist?list=PLoLQoll2U6WF9RosKElwHUhAcx4TbCLv-) -- videos presented in an unscripted, improvisational, or conversational manner.
   * [Gaming in toki pona](https://youtube.com/playlist?list=PLoLQoll2U6WE0LvFTjXUsRtYlS2GIoNVI)!
   * [Podcasts and News in toki pona](https://youtube.com/playlist?list=PLoLQoll2U6WFwq1JasXWsOdR7tOZNdApR) -- more scripted videos which often lack a visual element.
   * [Stories and Presentations in toki pona](https://youtube.com/playlist?list=PLoLQoll2U6WGtrg_4CURI3R4rp6ArHdsX) -- loosely to fully prepared videos that often have a visual element.
@@ -93,4 +93,4 @@ Wow, February was over so quickly -- and despite that, people have been so busy.
   * multiple choice exercises, for memorising words and glyphs. They might serve as a basic substitute for flashcard software.
   * many people also felt like they needed more practice in each lesson, so kala Asi has added several new sets of sentences!
 
-This edition of sin kulupu has been put together with the help of the communuity. [Collaborate with us](https://discord.com/channels/301377942062366741/1352322731592646788) to keep the newsletter going!
+This edition of sin kulupu has been put together with the help of the community. [Collaborate with us](https://discord.com/channels/301377942062366741/1352322731592646788) to keep the newsletter going!
