@@ -1,5 +1,5 @@
 ---
-title: "📰 sin: Anniversary, annual meetups and EGG"
+title: "📰 sin: sike - Anniversary, annual meetups and EGG"
 description: ''
 date: '2026-03-28'
 ---
