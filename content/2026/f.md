@@ -6,7 +6,7 @@ date: '2026-04-17'
 
 toki, ale o!
 
-This newsletter has more sitelen pona content than expected, so here's an experiment: The emoji sequence ✎☺︎ will show you which items use sitelen pona. Let us know what you think of that!
+This newsletter has more sitelen pona content than expected, so here's an experiment: The Unicode sequence ✎☺︎ will show you which items use sitelen pona. Let us know what you think of that!
 
 ### Group projects
 * ✎☺︎ The [Sitelen Pona Publishers & Typographers Association](https://sitelenpona.net/) made an [announcement](https://www.reddit.com/r/tokipona/comments/1schxdy/introducing_sitelenponanet_new_home_of_the/) about their new bilingual website, [Common Sitelen Pona](https://sitelenpona.net/common), and the [ASCII input standard for sitelen pona](https://sitelenpona.net/ascii)! The association was formed to support people who use sitelen pona and to formalize consensus for technical standards such as Unicode.
