@@ -46,6 +46,7 @@ If you want to see which things make use of sitelen pona, look out for this symb
 * jan Tene maintains the webring [sike pona](https://sike.pona.la/nasin-kama.html) and has added new graphics people can use!
 * The lipu tenpo team published [lipu tenpo nanpa suwi](https://liputenpo.org/lipu/nanpa-suwi/)! The next theme will be "pakala", [click here](https://docs.google.com/forms/d/e/1FAIpQLSfzw5uXqcdP-mh42WVbWXpmQrXJi15lYG8HrIvIJBf7cTofkA/viewform?usp=send_form) to contribute.
 * jan Salo [needs recipes](https://docs.google.com/forms/d/e/1FAIpQLSdghI1pGgLQGckHP0Va41UIPKuDXRqOUdjdBzmnFmTrATy6JQ/viewform) to recreate them on video!
+* jan Awekesi and jan Satase created [ma Kito](https://kito.pona.la), a Git code host for toki pona as an alternative to GitHub!
 
 ### Games
 * jan loje, loje jelo, jelo tu made a [⚂sitelen pona version of 2048](https://custom2048.com/tokipona2048/)!
