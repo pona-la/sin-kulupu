@@ -7,7 +7,7 @@ date: '2026-06-12'
 Let's check back on what has happened since last time... Oh look! The pona is growing well out of the ma and I think there's the first lipu branching of? Well, that reminds me: What other kinds of lipu have popped up in the last couple of weeks? So many good ones!
 
 ### Original songs
-* soweli Wiken released a toki pona version of the original song [⚂I ❤︎ Smoothies](https://youtu.be/-HAMTzwtnLk)!
+* soweli Wiken released a toki pona version of their original song [⚂I ❤︎ Smoothies](https://youtu.be/-HAMTzwtnLk)!
 * pan Opa released [⚂mi awen toki tan seme](https://www.youtube.com/watch?v=OgEbcW3e3Vo)!
 * pan Opa released [⚂tenpo kala](https://www.youtube.com/watch?v=ja9hebGYqKI)!
 * ilo Laso released [tawa nasa (o pini)](https://youtu.be/D15bBaF_miU)!
@@ -40,7 +40,7 @@ Let's check back on what has happened since last time... Oh look! The pona is gr
 ### Cool graphics
 * jan Kesi continues to animate all sitelen pona characters [⚂up to kalama](https://www.youtube.com/watch?v=oAFjOXf79Ts)!
 * ka Lupala recreated the [⚂you found lost media](https://www.youtube.com/watch?v=KnL9YrRfzes) meme and made a soweli animation for [AVGN Dance](https://www.youtube.com/watch?v=zL4PYQ5Korc)!
-* soweli suli makes [sitelen sitelen art](https://www.tumblr.com/soweli-suli/tagged/sitelen%20sitelen)!
+* soweli suli made some [sitelen sitelen art](https://www.tumblr.com/soweli-suli/tagged/sitelen%20sitelen)!
 * lostcatellite integrated [⚂some sitelen pona](https://www.tumblr.com/lostcatellite/tagged/tarot%20cards) in tarot card designs!
 
 ### Comics
