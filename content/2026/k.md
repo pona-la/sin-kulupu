@@ -77,6 +77,7 @@ The [pali musi](https://itch.io/jam/tu) game jam is over, and the votes are in! 
 14. ⚂[lape nimi](https://jan-elijo.itch.io/lape-nimi) by jan Elijo: Deal with your insomnia by solving toki pona word puzzles!
 15. [ilo sona li wile telo](https://jan-kalekote.itch.io/ilo-sona-li-wile-telo) by jan Kalekote: Battle against another ilo to get water to the other side!
 16. ⚂[pipelen](https://hecko-yes.itch.io/pipelen) by poni Kita: You're a pen bug. Recreate images with ink blots without getting distracted by enemies!
+17. ⚂[poki telo](https://sean27.itch.io/poki-telo) by sean: Prevent leaks in the ceiling from flooding the house by putting poki underneath!
 18. ⚂[Utala Telo](https://dynomitewaffle.itch.io/utala-telo) by DynomiteWaffle: Rescue a village by blocking incoming ocean waves!
 19. ⚂[soweli seli](https://delamare2112.itch.io/pali-musi-2026) by jan Telema: Fight against firebeast with water!
 20. ⚂[jan telo utala](https://sevengriphon.itch.io/jan-telo-utala) by SevenGriphon: You're a water elemental! Fight against the bosses who want you dead!
@@ -102,7 +103,7 @@ The [pali musi](https://itch.io/jam/tu) game jam is over, and the votes are in! 
 * Phototropism translated a page about [Removed Content](https://animal-hospital.fandom.com/wiki/User_blog:Ektdobaefq/I_translated_the_page_%22Removed_Content%22_on_this_wiki_to_Toki_Pona%2E) from the Animal Hospital game!
 * jan Esi-Pesi / jan Luku created a [Minecraft fanwiki](https://musimanka.miraheze.org/wiki/lipu_open) in toki pona!
 * Salt_Ad4538 made a [leko nimi poem](https://www.reddit.com/r/tokipona/comments/1ugk7ut/mi_sitelen_e_toki_leko_musi/)!
-* jan Usawi shared fae's perspective [on the word "musi"](https://natanyausawi.substack.com/p/ni-li-musi-taso) (English)!
+* jan Usawi shared faer perspective [on the word "musi"](https://natanyausawi.substack.com/p/ni-li-musi-taso) (English)!
 
 ### Cool graphics
 
