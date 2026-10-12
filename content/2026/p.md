@@ -29,7 +29,7 @@ Where would you like to go? So many options! We could go visit a library, we cou
 * jan Tanisawa made a ⚂[game to learn sitelen pona](https://kogito.itch.io/nimi)!
 * jan Matejasu translated a text adventure called ⚂[Shadow on the Sand](https://github.com/MatthiasLiszt/gamebook/tree/main)!
 * jan Popisi played [Terraria](https://www.youtube.com/watch?v=chvTSCPPRb8)!
-* Grabriel posted a commentary-free playthrough of [Cave Story](https://www.youtube.com/watch?v=WUPPcPqpikg)!
+* Gabriel posted a commentary-free playthrough of [Cave Story](https://www.youtube.com/watch?v=WUPPcPqpikg)!
 
 ### Songs
 * You might already know the [song playlist](https://www.youtube.com/playlist?list=PLc7R2x5fn6AqRFUR9JzGIqh0FMdtsXRnH) on YouTube has over 1000 videos, featuring translations and original works alike - but now there's a new playlist just for [toki pona originals](https://www.youtube.com/playlist?list=PLVy0lE8AXIcg)!
