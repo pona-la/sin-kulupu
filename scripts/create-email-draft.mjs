@@ -11,9 +11,20 @@ import juice from "juice";
 
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
-const file = args.find((arg) => !arg.startsWith("--"));
+const filepath = args.find((arg) => !arg.startsWith("--"));
+const file = filepath ?? fs
+  .readdirSync("content", { withFileTypes: true })
+  .filter((entry) => entry.isDirectory())
+  .flatMap((year) =>
+    fs
+      .readdirSync(path.join("content", year.name), { withFileTypes: true })
+      .filter((entry) => entry.isFile() && /\.mdx?$/.test(entry.name))
+      .map((entry) => path.join("content", year.name, entry.name)),
+  )
+  .sort()
+  .at(-1);
 if (!file) {
-  console.error("usage: npm run email -- content/<year>/<issue>.md [--dry-run]");
+  console.error("No newsletter issue found in content/<year>/");
   process.exit(1);
 }
 

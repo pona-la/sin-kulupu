@@ -4,8 +4,6 @@ description: ''
 date: '2026-11-12'
 ---
 
-# Pumpkin time
-
 Do you celebrate Halloween? If so: Did you read a spooky magazine like tenpo monsuta? Did you carve some pumpkins? Did you tell each other some fireside horror tales? And if you don't celebrate it: I hope you're having some cozy evenings with a hot beverage of your choice. One thing is for sure: You won't have to wonder what everyone else has been up to, because here's a whole list!
 
 ### Community projects
@@ -25,7 +23,6 @@ Do you celebrate Halloween? If so: Did you read a spooky magazine like tenpo mon
 * puwa njasu translated ⚂[なかなおり (Last Rally)](https://youtu.be/Tz6STmoOgnU) ([alt link](https://seka.pona.la/w/roRrDJsTimLYzqhnfpQ8UE))!
 * jan Jami translated the Shakers anti-capitalist hymn ⚂[Babylon Is Fallen](https://www.youtube.com/watch?v=LgboyoIzQUQ)!
 * jan Jami translated the Italian anti-fascist song ⚂[Bella Ciao](https://youtu.be/iOBwkibQ350)!
-* lagrangianFormalism made a cover of [Я РУССКИЙ](https://www.youtube.com/watch?v=G29E7O4zb2o) by Shaman!
 * Marcus Scriptor released the album [waso wawa](https://www.jamendo.com/album/648885/waso-wawa)!
 * jan Jami translated ⚂[We're Gonna Vote Vote Vote](https://youtu.be/n5S6TzlEOH4), which is based on the KPop Demon Hunters song Golden!
 * jan Pikesike translated ⚂[enough](https://www.youtube.com/watch?v=f0jrtByJuAc) by Gigi Murin!
