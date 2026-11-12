@@ -63,7 +63,7 @@ Where would you like to go? So many options! We could go visit a library, we cou
 
 ### About toki pona
 
-* MyZaac played the game [Toki Pona Island](www.youtube.com/watch?v=pwL_JjqscCs) in French!
+* MyZaac played the game [Toki Pona Island](https://www.youtube.com/watch?v=pwL_JjqscCs) in French!
 * 逢魔ヶ時チフユ livestreamed chill Wasona learning sessions: [introduction](https://www.youtube.com/watch?v=PQTrAF_8tY0), [lesson 2+](https://www.youtube.com/watch?v=T69YcyfDcwQ), [lesson 11+](https://www.youtube.com/watch?v=od2h7P7h6tQ), [lesson 20+](https://www.youtube.com/watch?v=Gv_G3U1vOcw). Afterwards, they played some ⚂[toki pona games](https://www.youtube.com/watch?v=XhDIONThTqw)!
 
 Have we missed something? Did you see something cool to share? [Help us](mailto:sin-kulupu@googlegroups.com) fill this newsletter! See you soon!
